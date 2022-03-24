@@ -1,0 +1,28 @@
+{
+	"calculation_fields": [
+		{
+			"field_text": "Groceries",
+			"field_value": "1000",
+			"percentage": "1.5",
+			"class" : "form-control"
+		},
+		{
+			"field_text": "Restaurants",
+			"field_value": "650",
+			"percentage": "1.5",
+			"class" : "form-control"
+		},
+		{
+			"field_text": "Gas",
+			"field_value": "350",
+			"percentage": "1.5",
+			"class" : "form-control"
+		},
+		{
+			"field_text": "Other",
+			"field_value": "400",
+			"percentage": "1.5",
+			"class" : "form-control"
+		}
+	]
+}

@@ -1,0 +1,248 @@
+{
+	"header":{
+	   "logo":"assets/images/logo.svg",
+	   "logo_link":"https://comenity.com/",
+	   "logo_alt":"Comenity",
+	   "menu":[
+		  {
+			 "title":"About",
+			 "link":"https://comenity.com/about",
+			 "submenu":[
+				{
+				   "title":"Customer Care",
+				   "link":"https://comenity.com/about/award-winning-customer-care"
+				},
+				{
+				   "title":"Giving Back",
+				   "link":"https://comenity.com/about/giving-back"
+				}
+			 ]
+		  },
+		  {
+			 "title":"Resources",
+			 "link":"https://comenity.com/resources",
+			 "submenu":[
+				
+			 ]
+		  },
+		  {
+			 "title":"Financial Education",
+			 "link":"https://comenity.com/financial-education",
+			 "submenu":[
+				
+			 ]
+		  },
+		  {
+			 "title":"Faq",
+			 "link":"https://comenity.com/faq",
+			 "submenu":[
+				
+			 ]
+		  },
+		  {
+			 "title":"Search",
+			 "link":"https://comenity.com/search",
+			 "submenu":[
+				
+			 ]
+		  },
+		  {
+			 "title":"Your Account",
+			 "link":"https://comenity.com/account-search",
+			 "submenu":[
+				
+			 ]
+		  }
+	   ],
+	   "account_btn_link":"https://comenity.com/account-search"
+	},
+	"cookie_data":{
+	   "name":"_vis_opt_exp_1011_combi"
+	},
+	"main_section":{
+	   "subtitle":"The Comenity<sup>®</sup> Mastercard<sup>®</sup> Credit Card",
+	   "title":"A rewards credit card with unlimited 1.5% Cash Back on every purchase",
+	   "description":"using your Comenity Mastercard. Paid as a statement credit.<sup>2</sup>",
+	   "details_text":"*Rates, Fees & Terms",
+	   "details_link":"/",
+	   "comenity_apply_now_link":"https://acquire1.comenity.net/?clientName=comenitycard&channel=6&subChannel=Q",
+	   "other_apply_now_link":"https://acquire1.comenity.net/?clientName=comenitycard&channel=L&subChannel=Q ",
+	   "apply_now_anchor_title":"Click apply now button here to start your Comenity Mastercard application.",
+	   "apply_now_subtitle":"Already a cardholder?",
+	   "login_text":"Log In",
+	   "login_link":"https://d.comenity.net/ac/comenitycard/public/home",
+	   "card_image":"assets/images/comenity_card.webp",
+	   "cardimg_alt":"The Comenity Mastercard has a contactless checkout feature for hassle-free checkouts, and users can get cash back on every purchase.",
+	   "card_subtitle":"",
+	   "card_subtitle_image":"",
+	   "logo":"assets/images/logo.svg"
+	},
+	"main_benefits":{
+	   "benefit_title":"Enjoy these benefits when you use your Comenity Mastercard:",
+	   "benefit_list":[
+		  {
+			 "value":"1.5%",
+			 "text":"Unlimited Cash Back",
+			 "img":"",
+			 "alt":"",
+			 "description":"on every purchase. Paid as a statement credit.<sup>2</sup>"
+		  },
+		  {
+			 "value":"NO",
+			 "text":"Annual Fee",
+			 "img":"",
+			 "alt":"",
+			 "description":"enjoy all the benefits of your Comenity Mastercard with no annual fee.<sup>3</sup> "
+		  },
+		  {
+			 "value":"",
+			 "text":"Contactless Credit Card",
+			 "img":"assets/images/touchfree-symbol-scaled.svg",
+			 "alt":"Contactless Credit Card",
+			 "description":"pay with your phone in-store and online with Apple Pay<sup>®</sup>, Google Pay<sup>™</sup> or Samsung Pay."
+		  }
+	   ],
+	   "bonus_title":"$100 <span class='m-0'>Cash Back Bonus</span>",
+	   "bonus_subtitle":"Cash Back Bonus",
+	   "bonus_description":"when you spend $500 or more within 90 days of opening an account. Paid as a statement credit.<sup>2</sup>"
+	},
+	"calculation":{
+	   "title":"See how much cash back you may earn.",
+	   "discription":"Earn 1.5% cash back on every purchase when you use your Comenity Mastercard. Paid as a statement credit.<sup>2</sup>",
+	   "calculation_text":"How much do you spend monthly?",
+	   "resultdata1":"<span class='bluesmall'>$100 cash back</span> when you spend $500 or more within 90 days of account opening. Paid as a statement credit.<sup>1</sup>",
+	   "resultdata2":"<span class='bluesmall'>3% Cash Back</span> on restaurant purchases through December 31, 2021",
+	   "errormsg":" you won’t earn any cash back. Try again by adding some expenses and calculating again.",
+	   "spends":[
+		  "Dining Out",
+		  "Everyday Purchases"
+	   ],
+	   "btn_text":"Calculate",
+	   "image":"assets/images/stock_image1.webp",
+	   "img_alt":"A shopper picking up a grocery bag that he purchased with Comenity Mastercard to earn cash back rewards.",
+	   "all_null_msg":"Kindly input value within at least 1 boxes.",
+	   "less_data_msg":"Input amount to be 200 min."
+	},
+	"calculation_fields":[
+	   {
+		  "field_text":"Groceries",
+		  "field_value":"1000",
+		  "percentage":"1.5",
+		  "class":"form-control"
+	   },
+	   {
+		  "field_text":"Restaurants",
+		  "field_value":"650",
+		  "percentage":"1.5",
+		  "class":"form-control"
+	   },
+	   {
+		  "field_text":"Gas",
+		  "field_value":"350",
+		  "percentage":"1.5",
+		  "class":"form-control"
+	   },
+	   {
+		  "field_text":"Other",
+		  "field_value":"400",
+		  "percentage":"1.5",
+		  "class":"form-control"
+	   }
+	],
+	"faq":{
+	   "title":"Frequently asked questions",
+	   "questions":[
+		  {
+			 "title":"Who is Comenity?",
+			 "description":"Comenity has been helping people get more for their money since we introduced our first credit card in 1986. Today, Comenity Bank partners with some of the world’s most recognized merchants, providing more than 145 branded credit programs.<br><br>We’ve been trusted in the industry for more than 30 years. All of our products are designed to be safe, secure and empowering, and we’ re also consistently recognized for our outstanding and industry-leading customer care."
+		  },
+		  {
+			 "title":"How do I redeem cash back with Comenity Mastercard?",
+			 "description":"Cash back can be redeemed as a statement credit by signing in and visiting the <a class='btn-link' href='https://d.comenity.net/ac/comenitycard/secure/rewards/summary' aria-label='Rewards Summary' title='Rewards page' >Rewards page</a>. Cash back will be applied to your current balance within three business days. Please reference <a class='btn-link' href='https://d.comenity.net/comenitycard/common/Legal/RewardsTermsAndConditionsDisclosure.xhtml' target='blank' aria-label='Open a slideout to review the terms and conditions.' title='Terms and Conditions' >Terms and Conditions</a> for full program details."
+		  },
+		  {
+			 "title":"Do Comenity Mastercard cash-back rewards expire?",
+			 "description":"Cash-back rewards will not expire after the date they are posted to your balance. Rewards are subject to <a class='btn-link' href='https://d.comenity.net/comenitycard/common/Legal/RewardsTermsAndConditionsDisclosure.xhtml' target='blank'  title='Terms and Conditions' >Terms and Conditions</a>."
+		  },
+		  {
+			 "title":"Is there a maximum amount of cash back I can earn with Comenity Mastercard?",
+			 "description":"There is no maximum on everyday purchases. Use your card everywhere Mastercard<sup>®</sup> is accepted and earn 1.5% cash back. Bonus cash back for special offers may have a maximum amount that can be earned as part of the promotion. Please reference the <a class='btn-link' href='https://d.comenity.net/comenitycard/common/Legal/RewardsTermsAndConditionsDisclosure.xhtml' target='blank'  title='Terms and Conditions' >Terms and Conditions</a> for full program details."
+		  },
+		  {
+			 "title":"Does Comenity Mastercard charge an annual fee?",
+			 "description":"Comenity Mastercard is an unlimited cash-back credit card with no annual fee."
+		  },
+		  {
+			 "title":"How many authorized users can I add to my Comenity Mastercard?",
+			 "description":"Comenity Mastercard allows up to four authorized users per card. To learn more about adding users to your card and additional features, visit your <a href='https://d.comenity.net/ac/comenitycard/secure/account-profile'>Account Features</a> page."
+		  },
+		  {
+			 "title":"Who do I call for help regarding my Comenity Mastercard?",
+			 "description":"For assistance with your Comenity Mastercard, you can contact Customer Care at <a class='btn-link' href='tel:1-855-823-1001' aria-label='1 8 5 5 8 2 3 1 0 0 1'>1-855-823-1001</a> (TDD/TTY: <a class='btn-link' href='tel:1-800-695-1788' aria-label='1 8 0 0 6 9 5 1 7 8 8'>1-800-695-1788</a>)."
+		  }
+	   ]
+	},
+	"benefits":{
+	   "title":"Mastercard<sup>®</sup> Network benefits<sup>4</sup>",
+	   "list":[
+		  {
+			 "logo":"assets/images/CardReplacement.svg",
+			 "title":"Emergency Card Replacement",
+			 "description":"Cardholders receive a temporary replacement card by the next day in the United States and within two business days almost everywhere else.",
+			 "learnmore":"",
+			 "learnmorelink":"#"
+		  },
+		  {
+			 "logo":"assets/images/cash-advance.svg",
+			 "title":"Emergency Cash Advance",
+			 "description":"If a card is lost or stolen, the cardholder can receive cash — generally within 15 minutes in the United States and within one hour almost everywhere else.",
+			 "learnmore":"",
+			 "learnmorelink":"#"
+		  },
+		  {
+			 "logo":"assets/images/ZeroLiability.svg",
+			 "title":"Zero Liability",
+			 "description":"Pay only for the purchases you make- you won’t be held liable for unauthorized purchases.",
+			 "learnmore":"Learn More",
+			 "learnmorelink":"#"
+		  },
+		  {
+			 "logo":"assets/images/IdentityTheft.svg",
+			 "title":"Identity Theft Resolution",
+			 "description":"We’ll assist you in case of identity theft, including contacting credit agencies.",
+			 "learnmore":"Learn More",
+			 "learnmorelink":"#"
+		  }
+	   ]
+	},
+	"terms":{
+	   "title":"Terms & Conditions",
+	   "description":"<p><sup>1</sup> Valid one time only. Offer is exclusive to Comenity<sup>®</sup> Mastercard<sup>®</sup> Credit Card holders enrolled in the Comenity Rewards program. Maximum of $100. Purchases do not include returns, refunds or credit adjustments, balance transfers, cash advances, interest charges, and fees of any kind. This rewards program is provided by Comenity Bank and its terms may change at any time. For full Rewards Terms and Conditions, please see <a href='http://comenity.net/comenitycard/termsandconditions' target='_blank' title='Terms and Conditions'>comenity.net/comenitycard/termsandconditions</a>. Once earned, the offer will be automatically fulfilled as a $100 statement credit within 2 billing cycles.</p> <p><sup>2</sup> Offer is exclusive to Comenity<sup>®</sup> Mastercard<sup>®</sup> Credit Card holders enrolled in the Comenity Rewards program. Purchases do not include returns, refunds or credit adjustments, balance transfers, cash advances, interest charges, and fees of any kind. Once earned, you must redeem for statement credit at <a href='http://www.comenity.net/comenitycard' target='_blank' title='The Comenity® Mastercard® Credit Card'>www.comenity.net/comenitycard</a>.</p> <p><sup>3</sup> For new accounts, as of February 2022: Variable Purchase APR of 17.99 or 24.99% based on the Prime Rate. Balance Transfer APR of 26.99%. Variable Cash Advance APR of 25.99%, based on Prime Rate. Minimum Interest Charge is $2 per Credit Plan. Balance Transfer Fee of the greater of $10 or 5% of the transfer. Cash Advance Fee of the greater of $10 or 5% of the advance. Foreign Transaction Fee of 3% of the transaction in US dollars. Late or Returned Payment fee of up to $41.</p> <p><sup>4</sup> Mastercard Card benefits are benefits associated with Mastercard. Certain terms, conditions, and exclusions apply. For Full Benefits Terms and Conditions, please see your Guide to Benefits or call 1-800-Mastercard.</p> <p>Credit card offers are subject to credit approval.</p> <p>Comenity<sup>®</sup> Mastercard<sup>®</sup> Credit Card Accounts are issued by Comenity Bank pursuant to a license from Mastercard International Incorporated. Mastercard and the Mastercard Brand Mark are registered trademarks of Mastercard International Incorporated.</p>",
+	   "model_data":"<p>Spend. Earn. Repeat.<sup>SM</sup> Earn cash-back rewards with every Comenity<sup>®</sup> Mastercard<sup>®</sup> Credit Card purchase.</p> <ul><li>$100 cash back when you spend $500 or more within 90 days of account opening. Paid as a statement credit.<sup>1</sup></li><li>1.5% unlimited cash back everywhere else Mastercard is accepted. Paid as a statement credit.<sup>2</sup></li><li>No annual fee.<sup>3</sup></li><li>Plus, you can enjoy all the benefits of the Mastercard<sup>®</sup> network, including identity theft protection<sup>4</sup> and more!</li></ul> <p><sup>1</sup> Valid one time only. Offer is exclusive to Comenity<sup>®</sup> Mastercard<sup>®</sup> Credit Card holders enrolled in the Comenity Rewards program. Maximum of $100. Purchases do not include returns, refunds or credit adjustments, balance transfers, cash advances, interest charges, and fees of any kind. This rewards program is provided by Comenity Bank and its terms may change at any time. For full Rewards Terms and Conditions, please see <a href='http://comenity.net/comenitycard/termsandconditions' target='_blank' title='Terms and Conditions'>comenity.net/comenitycard/termsandconditions</a>.  Once earned, the offer will be automatically fulfilled as a $100 statement credit within 2 billing cycles.</p><p><sup>2</sup> Offer is exclusive to Comenity<sup>®</sup> Mastercard<sup>®</sup> Credit Card holders enrolled in the Comenity Rewards program. Purchases do not include returns, refunds or credit adjustments, balance transfers, cash advances, interest charges, and fees of any kind. Once earned, you must redeem for statement credit at <a href='http://www.comenity.net/comenitycard' target='_blank' title='The Comenity® Mastercard® Credit Card'>www.comenity.net/comenitycard</a>.</p><p><sup>3</sup> For new accounts, as of February 2022: Variable Purchase APR of 17.99 or 24.99% based on the Prime Rate. Balance Transfer APR of 26.99%. Variable Cash Advance APR of 25.99%, based on Prime Rate. Minimum Interest Charge is $2 per Credit Plan. Balance Transfer Fee of the greater of $10 or 5% of the transfer. Cash Advance Fee of the greater of $10 or 5% of the advance. Foreign Transaction Fee of 3% of the transaction in US dollars. Late or Returned Payment fee of up to $41.</p><p><sup>4</sup> Mastercard Card benefits are benefits associated with Mastercard. Certain terms, conditions, and exclusions apply. For Full Benefits Terms and Conditions, please see your Guide to Benefits or call 1-800-Mastercard.</p><p>Credit card offers are subject to credit approval.</p><p>Comenity<sup>®</sup> Mastercard<sup>®</sup> Credit Card Accounts are issued by Comenity Bank pursuant to a license from Mastercard International Incorporated. Mastercard and the Mastercard Brand Mark are registered trademarks of Mastercard International Incorporated.</p>"
+	},
+	"footer":{
+	   "copyrighttext":"© <time class='date'>2022</time> Comenity LLC.—Comenity Bank and Comenity Capital are Comenity companies.",
+	   "footermenu":[
+		  {
+			 "title":"Contact",
+			 "link":"https://comenity.com//contact"
+		  },
+		  {
+			 "title":"Financial Privacy",
+			 "link":"https://comenity.com/financial-privacy"
+		  },
+		  {
+			 "title":"Online &amp; California Privacy Policy",
+			 "link":"https://comenity.com/online-california-privacy-policy"
+		  },
+		  {
+			 "title":"Terms of Service",
+			 "link":"https://comenity.com/terms-of-service"
+		  },
+		  {
+			 "title":"Do not sell my information",
+			 "link":"https://calprivacy.comenity.com/s/"
+		  }
+	   ]
+	}
+ }
