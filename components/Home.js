@@ -195,7 +195,50 @@ class Home extends Component {
 
 
             
-            
+            <main role="main">
+                    
+                    <section className="hero-banner py-2">
+                        <div className="container">
+                            
+                            <div className="row">
+                            
+                                <div className="col-md-7">
+                                {
+                                    //this.prevurl() === 1 ? <p className="back"><a href={document.referrer} title="Back" dangerouslySetInnerHTML={{__html:"< Back"}} /> </p> : ""
+                                }
+                                
+                                    <h1 className="card-name" dangerouslySetInnerHTML={{__html:this.props.maindata.subtitle}} />
+                                    <h2 className="title" dangerouslySetInnerHTML={{__html:this.props.maindata.title}} />
+                                    <p className="discription" dangerouslySetInnerHTML={{__html:this.props.maindata.description}} />
+                                   
+                                    <p> <a className="btn btn-primary" href={this.state.applynowlink} title="Click apply now button here to start your Comenity Mastercard application"> Apply Now </a>  </p>
+                                    
+                                    <p className="alreadylogin"> {this.props.maindata.apply_now_subtitle} <a className="loginlink" href={this.props.maindata.login_link} title="Log In"> {this.props.maindata.login_text} </a> </p>
+
+                                    <p className="link"> <button className="hero_ratesterms buttonlink" data-toggle="modal" data-target="#terms" title="Rates, Fees & Terms +"> {this.props.maindata.details_text} </button> </p>
+                                    
+                                </div>
+                                <div className="col-md-5 text-center">
+                                    <div className="image">
+                                    {
+                                       <img src={this.props.maindata.card_image} rel="preload" alt={this.props.maindata.cardimg_alt} width="445" height="415" />
+                                    }
+                                        
+                                    </div>
+                                    <div className="text">
+                                    {
+                                        this.props.maindata.card_subtitle_image !== "" ?
+                                        <p className="text-right m-0"> <LazyLoadImage  effect="blur" src={this.props.maindata.card_subtitle_image} alt="" width="17" height="21" />  </p>
+                                        :null
+                                    }
+                                    </div>
+                                </div>
+                            </div>
+                           
+                        </div>
+                    </section>  
+                   
+            </main>
 
 
 
