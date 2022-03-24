@@ -195,7 +195,7 @@ class Home extends Component {
 
 
             
-            <main role="main">
+            {/* <main role="main">
                     
                     <section className="hero-banner py-2">
                         <div className="container">
@@ -238,7 +238,7 @@ class Home extends Component {
                         </div>
                     </section>  
                    
-            </main>
+            </main> */}
 
 
 
