@@ -2,7 +2,7 @@ import Homedata from '../components/Home';
 import Calculation from '../components/Calculation'
 import Faq from '../components/Faq'
 
-export default function Home({users}) {
+export default function card({users}) {
   // console.log(users.main_section);
   return (
     <>
