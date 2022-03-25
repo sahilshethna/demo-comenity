@@ -27,12 +27,12 @@ class Home extends Component {
         }
         TagManager.initialize(tagManagerArgs)
 
-        let mainwvo = document.createElement('script')
-        mainwvo.setAttribute('src', 'https://dev.visualwebsiteoptimizer.com/')
-        document.head.appendChild(mainwvo);
-        let wvo = document.createElement('script')
-        wvo.setAttribute('src', 'assets/js/vwo.js')
-        document.head.appendChild(wvo);
+        // let mainwvo = document.createElement('script')
+        // mainwvo.setAttribute('src', 'https://dev.visualwebsiteoptimizer.com/')
+        // document.head.appendChild(mainwvo);
+        // let wvo = document.createElement('script')
+        // wvo.setAttribute('src', 'assets/js/vwo.js')
+        // document.head.appendChild(wvo);
 
         let bootstrap = document.createElement('script')
         bootstrap.setAttribute('src', 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js');

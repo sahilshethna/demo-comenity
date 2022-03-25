@@ -22,6 +22,13 @@ class main extends Component {
                 isdata: 1
             })
         });
+
+         let mainwvo = document.createElement('script')
+        mainwvo.setAttribute('src', 'https://dev.visualwebsiteoptimizer.com/')
+        document.head.appendChild(mainwvo);
+        let wvo = document.createElement('script')
+        wvo.setAttribute('src', 'assets/js/vwo.js')
+        document.head.appendChild(wvo);
     }
 
 
