@@ -36,7 +36,7 @@ class main extends Component {
                             <Calculation calculation={this.state.comenity.calculation} fields={this.state.comenity.calculation_fields} />
                             <Faq faq={this.state.comenity.faq} benefits={this.state.comenity.benefits} terms={this.state.comenity.terms} footer={this.state.comenity.footer} />
                         </React.Fragment>
-                        : <div>Loading..!</div>
+                        : null
                 }
             </div>
         );
