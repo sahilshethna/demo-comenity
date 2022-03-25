@@ -15,7 +15,8 @@ export default function Home({users}) {
 }
 
 export async function getServerSideProps() {
-  const response = await fetch('https://demo-comenity.vercel.app/control/content.php?file=Data');
+  var weburl = window.location.protocol+"//"+window.location.hostname+window.location.pathname;
+  const response = await fetch(weburl+'/control/content.php?file=Data');
   //const response = await fetch('https://html.staging.prismitsystems.com/comenity-mastercard/control/content.php?file=Data')
   const data = await response.json();
   //console.log(data);
