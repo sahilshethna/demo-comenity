@@ -13,10 +13,16 @@ export default function card({users}) {
   )
 }
 
+export async function getData() {
+    const response = await fetch('https://html.staging.prismitsystems.com/comenity-mastercard/control/content.php?file=Data');
+    const jsonData = await response.json()
+    return jsonData
+}
+
 export async function getServerSideProps() {
   //const response = await fetch('http://localhost/demo-comenity/control/content.php?file=Data');
-  const response = await fetch('https://html.staging.prismitsystems.com/comenity-mastercard/control/content.php?file=Data')
-  const data = await response.json();
+  //const response = await fetch('https://html.staging.prismitsystems.com/comenity-mastercard/control/content.php?file=Data')
+  const data = await getData()
   //console.log(data);
   return{
     props:{
